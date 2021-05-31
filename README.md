@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aartichourasiya53
 - 👀 I’m interested in node js web project with my sql db
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on ws, spring
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aarti@servercentral.in
 
 <!---
